@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{90A49B80-4BCD-19CE-9A3A-6CBB2FC121ED}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Udemy_DGAdventure",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
